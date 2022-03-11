@@ -16,7 +16,7 @@
 - Bypass the 750Gb a day limit thanks to Service accounts
 - Duplicate team drive
 - Copy public folders & files to team drives
-- [Host it to heroku](https://github.com/MsGsuite/CloneBot_Heroku)
+- [Host it to heroku](https://github.com/lucasreis611/CloneBot_Heroku)
 
 #### ❌ Drawbacks
 - Does not support files upload (only copy)
@@ -29,7 +29,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 <br/><br/>
 
 ## ⚛️ Deploying on Heroku
---> https://github.com/MsGsuite/CloneBot_Heroku
+--> https://github.com/lucasreis611/CloneBot_Heroku
 <br/><br/>
 
 ## 📱 Run the bot on your phone using termux
@@ -39,7 +39,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 ## 💠 Host the bot on your computer
 
-1. Download the repo : https://github.com/MsGsuite/CloneBot/archive/refs/heads/master.zip
+1. Download the repo : https://github.com/lucasreis611/CloneBot/archive/refs/heads/master.zip
 2. Open the config.ini file (inside the telegram_gcloner folder) and fill the following values :
 
 
